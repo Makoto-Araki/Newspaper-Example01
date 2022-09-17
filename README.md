@@ -4,7 +4,7 @@
 <br>
 
 ## 対象記事
-![画像1](./Newspaper-Exercises1-1.png)
+![画像1](./image01.png)
 
 <br>
 
@@ -28,7 +28,7 @@ article.parse()
 ```
 article.publish_date
 ```
-![画像2](./Newspaper-Exercises1-2.png)
+![画像2](./image02.png)
 
 <br>
 
@@ -36,7 +36,7 @@ article.publish_date
 ```
 article.authors
 ```
-![画像3](./Newspaper-Exercises1-3.png)
+![画像3](./image03.png)
 
 <br>
 
@@ -44,7 +44,7 @@ article.authors
 ```
 article.text
 ```
-![画像4](./Newspaper-Exercises1-4.png)
+![画像4](./image04.png)
 
 <br>
 
@@ -53,7 +53,7 @@ article.text
 import nltk
 nltk.download('punkt')
 ```
-![画像5](./Newspaper-Exercises1-5.png)
+![画像5](./image05.png)
 
 <br>
 
@@ -68,7 +68,7 @@ article.nlp()
 ```
 article.keywords
 ```
-![画像6](./Newspaper-Exercises1-6.png)
+![画像6](./image06.png)
 
 <br>
 
@@ -76,6 +76,6 @@ article.keywords
 ```
 article.summary
 ```
-![画像7](./Newspaper-Exercises1-7.png)
+![画像7](./image07.png)
 
 <br>
